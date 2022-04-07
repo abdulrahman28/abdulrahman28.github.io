@@ -11,8 +11,27 @@
     <i class="bi bi-list mobile-nav-toggle"></i>
   </nav><!-- .navbar -->
 
-  
+  <!-- ======= Table Section ======= -->
+  <tr>
+    <td>5.</td>
+    <td class="button">Arduino IDE</td>
+    <td class="button">Arduino IDE is an open-source electronic prototyping platform enabling users to create interactive electronic objects.</td>
+    <td class="button"><a href="#"><button title="Arduino IDE">Download</button></td></a>
+  </tr>
 
+  <tr>
+    <td>5.</td>
+    <td class="button">Arduino IDE</td>
+    <td class="button">Arduino IDE is an open-source electronic prototyping platform enabling users to create interactive electronic objects.</td>
+    <td class="button"><a href="#"><button title="Arduino IDE">Download</button></td></a>
+  </tr>
+
+<tr>
+  <td>4.</td>
+  <td class="button">XAMPP</td>
+  <td class="button">XAMPP is a free and open-source cross-platform web server solution stack package.</td>
+  <td class="button"><a href="https://drive.google.com/file/d/1zZ9_La5hiYIW46qaNrpl4krchnkmpQtd/view?usp=sharing"><button title="XAMPP">Download</button></td></a>
+</tr>
   
 
     <!-- ======= Resume Section ======= -->
