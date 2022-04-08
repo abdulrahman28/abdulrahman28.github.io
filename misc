@@ -12,11 +12,12 @@
   </nav><!-- .navbar -->
 
   <!-- ======= Table Section ======= -->
+
   <tr>
-    <td>5.</td>
-    <td class="button">Arduino IDE</td>
-    <td class="button">Arduino IDE is an open-source electronic prototyping platform enabling users to create interactive electronic objects.</td>
-    <td class="button"><a href="#"><button title="Arduino IDE">Download</button></td></a>
+    <td class="button">2.</td>
+    <td class="button">MATLAB 2015 (Full Version Download)</td>
+    <td class="button">MATLAB is a programming and numeric computing platform use to analyze data, develop algorithms, and create models.</td>
+    <td class="button"><a href="#"><button title="MATLAB 2015 (Full Version)">Download</button></td></a>
   </tr>
 
   <tr>
