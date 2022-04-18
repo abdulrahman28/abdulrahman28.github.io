@@ -879,14 +879,28 @@ table {
 
 td, th {
   border: 1px solid #dddddd;
-  text-align: left;
-  padding: 8px;
+  text-align: center;
+  padding: 10px;
 }
-
+/*
 .button {
   text-align: center;
   align-items: center;
- 
+}
+*/
+
+.btn {
+  background-color: DodgerBlue;
+  border: none;
+  color: white;
+  padding: 5px 25px;
+  cursor: pointer;
+  font-size: 13px;
+}
+
+/* Darker background on mouse-over */
+.btn:hover {
+  background-color: RoyalBlue;
 }
 
 /*
@@ -1039,3 +1053,4 @@ tr:nth-child(even) {
   text-align: center;
   font-size: 13px;
 }
+
